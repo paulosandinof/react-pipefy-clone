@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-pipefy-clone/static/js/main.bc4c9be0.chunk.js",
+    "main.js.map": "/react-pipefy-clone/static/js/main.bc4c9be0.chunk.js.map",
+    "runtime-main.js": "/react-pipefy-clone/static/js/runtime-main.fbf7a742.js",
+    "runtime-main.js.map": "/react-pipefy-clone/static/js/runtime-main.fbf7a742.js.map",
+    "static/js/2.7c2ecd0d.chunk.js": "/react-pipefy-clone/static/js/2.7c2ecd0d.chunk.js",
+    "static/js/2.7c2ecd0d.chunk.js.map": "/react-pipefy-clone/static/js/2.7c2ecd0d.chunk.js.map",
+    "index.html": "/react-pipefy-clone/index.html",
+    "precache-manifest.dd73be78c5119aa75068ea718dab976b.js": "/react-pipefy-clone/precache-manifest.dd73be78c5119aa75068ea718dab976b.js",
+    "service-worker.js": "/react-pipefy-clone/service-worker.js",
+    "static/js/2.7c2ecd0d.chunk.js.LICENSE.txt": "/react-pipefy-clone/static/js/2.7c2ecd0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbf7a742.js",
+    "static/js/2.7c2ecd0d.chunk.js",
+    "static/js/main.bc4c9be0.chunk.js"
+  ]
+}
