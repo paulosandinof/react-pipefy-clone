@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-pipefy-clone/precache-manifest.dd73be78c5119aa75068ea718dab976b.js"
+  "/react-pipefy-clone/precache-manifest.2b66f8c56b7e477d6ddffe12a5f1a1dd.js"
 );
 
 self.addEventListener('message', (event) => {

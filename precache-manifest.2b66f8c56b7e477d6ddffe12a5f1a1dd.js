@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d70114f5e21c0b05c0c25f58f13d9b7",
+    "revision": "a665a15b176254884c7b87ff5daf1fac",
     "url": "/react-pipefy-clone/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-pipefy-clone/static/js/2.7c2ecd0d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15abdfd3c7f557b40bd6",
-    "url": "/react-pipefy-clone/static/js/main.bc4c9be0.chunk.js"
+    "revision": "f20f074409b671ca6232",
+    "url": "/react-pipefy-clone/static/js/main.75f7ccee.chunk.js"
   },
   {
     "revision": "49310e9b4212a3f957eb",
