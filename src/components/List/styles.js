@@ -3,6 +3,7 @@ import styled from 'styled-components';
 const Container = styled.div`
   padding: 0 15px;
   height: 100%;
+  overflow: auto; // .
 
   flex-grow: 0;
   flex-shrink: 0;

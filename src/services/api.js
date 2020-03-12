@@ -6,31 +6,31 @@ export default function loadLists() {
       cards: [
         {
           id: 1,
-          content: 'Estudar módulo 01 de NodeJS',
+          content: 'Estudar NodeJS',
           labels: ['#7159c1', '#54e1f7'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png',
         },
         {
           id: 2,
-          content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
+          content: 'Estudar Java',
           labels: ['#7159c1'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png',
         },
         {
           id: 3,
-          content: 'Estudar módulo 03 de React Native',
+          content: 'Estudar Spring',
           labels: ['#7159c1'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png',
         },
         {
           id: 4,
-          content: 'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
+          content: 'Fazer Atividade de Engenharia de Linguagens',
           labels: ['#54e1f7'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png',
         },
         {
           id: 5,
-          content: 'Gravar testes e deploy ReactJS',
+          content: 'Aprender sobre autenticação, JWT e Refresh Token com NodeJS',
           labels: ['#54e1f7'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png',
         },
@@ -54,19 +54,19 @@ export default function loadLists() {
       cards: [
         {
           id: 7,
-          content: 'Gravar sobre Geolocalização e mapas com React Native',
+          content: 'Criar Model de Avisos no projeto de Projeto Detalhado de Software',
           labels: ['#7159c1'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png',
         },
         {
           id: 8,
-          content: 'Gravar testes e deploy ReactJS',
+          content: 'Assistir vídeo aula sobre GraphQL com NodeJS',
           labels: ['#54e1f7'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png',
         },
         {
           id: 9,
-          content: 'Ajustes na biblioteca unform',
+          content: 'Ajustar aplicação Gitcompare',
           labels: [],
         },
       ],
@@ -78,17 +78,17 @@ export default function loadLists() {
       cards: [
         {
           id: 10,
-          content: 'Gravar aula sobre deploy e CI com React Native',
+          content: 'Fazer atividade de Teste de Software',
           labels: [],
         },
         {
           id: 12,
-          content: 'Gravar testes e deploy ReactJS',
+          content: 'Fazer deploy da aplicação de Web I',
           labels: ['#54e1f7'],
         },
         {
           id: 13,
-          content: 'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
+          content: 'Ajustar CRUDs no projeto de Projeto Detalhado de Software',
           labels: ['#7159c1'],
         },
       ],
