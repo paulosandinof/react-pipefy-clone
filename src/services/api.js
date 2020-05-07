@@ -30,7 +30,8 @@ export default function loadLists() {
         },
         {
           id: 5,
-          content: 'Aprender sobre autenticação, JWT e Refresh Token com NodeJS',
+          content:
+            'Aprender sobre autenticação, JWT e Refresh Token com NodeJS',
           labels: ['#54e1f7'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png',
         },
@@ -54,7 +55,8 @@ export default function loadLists() {
       cards: [
         {
           id: 7,
-          content: 'Criar Model de Avisos no projeto de Projeto Detalhado de Software',
+          content:
+            'Criar Model de Avisos no projeto de Projeto Detalhado de Software',
           labels: ['#7159c1'],
           user: 'https://api.adorable.io/avatars/285/abott@adorable.png',
         },
