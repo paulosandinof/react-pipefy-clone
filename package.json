@@ -1,7 +1,27 @@
 {
   "name": "react-pipefy-clone",
-  "version": "0.1.0",
-  "private": true,
+  "description": "An application that mimics the UI from Pipefy.",
+  "version": "1.0.0",
+  "main": "src/index.jsx",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulosandinof/react-pipefy-clone"
+  },
+  "keywords": [
+    "Javascript",
+    "JS",
+    "React"
+  ],
+  "author": "Paulo Sandino",
+  "license": "MIT",
   "homepage": "https://paulosandinof.github.io/react-pipefy-clone",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -17,16 +37,19 @@
     "react-scripts": "3.4.0",
     "styled-components": "^5.0.1"
   },
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "prettier": "^2.0.5"
   },
   "browserslist": {
     "production": [
@@ -39,16 +62,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb": "^18.0.1",
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-import": "^2.20.1",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-prettier": "^3.1.3",
-    "eslint-plugin-react": "^7.19.0",
-    "eslint-plugin-react-hooks": "^1.7.0",
-    "prettier": "^2.0.5"
   }
 }
